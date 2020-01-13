@@ -1,0 +1,27 @@
+{
+  "name": "code-snippet-site",
+  "version": "1.0.0",
+  "description": "A site to share code-snippets",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wetyuip/Code-snippet-site.git"
+  },
+  "keywords": [
+    "coding",
+    "code-snippets"
+  ],
+  "author": "[REDACTED] && wetyuip",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wetyuip/Code-snippet-site/issues"
+  },
+  "homepage": "https://github.com/wetyuip/Code-snippet-site#readme"
+}
