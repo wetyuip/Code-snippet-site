@@ -1,0 +1,6 @@
+{
+    "content" : "content of snippet",
+    "language" : "programming language of the snippet",
+    "author" : "user writing the snippet",
+    "timestamp" : "when it was created (unix time)"
+}
