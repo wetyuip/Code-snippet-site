@@ -8,6 +8,6 @@ router.get("/", (req, res, next) => {
 });
 
 router.use(express.static(path.resolve("./public/css")));
-router.use(express.static(path.resolve("./public/js")));
+router.use(express.static(path.resolve("./public/scripts")));
 
 module.exports = router;
